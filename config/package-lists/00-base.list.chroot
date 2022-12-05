@@ -1,0 +1,4 @@
+ca-certificates
+mc
+wget
+apt-transport-https
