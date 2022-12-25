@@ -1,7 +1,9 @@
 ca-certificates
 cryptsetup
+lvm2
 apt-transport-https
 wget
 mc
+
 
 
