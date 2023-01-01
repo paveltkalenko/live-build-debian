@@ -1,3 +1,11 @@
 # Утилиты
 
 lshw
+apt-file
+dump 
+rfkill
+
+# поддержка fat32
+mtools
+
+efibootmgr

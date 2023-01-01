@@ -1,9 +1,11 @@
 ca-certificates
+sudo
 cryptsetup
 lvm2
+mdadm
 apt-transport-https
 wget
+git
 mc
-
 
 
