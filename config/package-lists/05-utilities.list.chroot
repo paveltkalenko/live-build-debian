@@ -9,3 +9,6 @@ rfkill
 mtools
 
 efibootmgr
+
+# программа lspci
+pciutils
