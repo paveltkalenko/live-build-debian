@@ -1,5 +1,6 @@
 #комментарий
-lxqt-core
+#lxqt-core
+kde-plasma-desktop
 xinit
 lightdm
 google-chrome-stable

@@ -5,7 +5,11 @@ lvm2
 mdadm
 apt-transport-https
 wget
+curl
 git
 mc
+
+# резервное копирование и восстановление файловых систем
+dump
 
 
