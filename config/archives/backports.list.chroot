@@ -1,2 +1,2 @@
-deb http://httpredir.debian.org/debian bookworm-backports main contrib non-free-firmware
-deb-src http://httpredir.debian.org/debian bookworm-backports main contrib non-free-firmware
+deb http://httpredir.debian.org/debian bookworm-backports main contrib non-free non-free-firmware
+deb-src http://httpredir.debian.org/debian bookworm-backports main contrib non-free non-free-firmware
