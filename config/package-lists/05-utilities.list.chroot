@@ -20,3 +20,8 @@ usbutils
 fakeroot
 
 mesa-utils
+
+rsync
+
+
+net-tools
