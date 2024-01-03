@@ -9,6 +9,8 @@ rfkill
 # поддержка fat32
 mtools
 
+grub-efi
+
 efibootmgr
 
 # программа lspci
